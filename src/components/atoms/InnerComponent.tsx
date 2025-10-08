@@ -1,5 +1,5 @@
 import { useContext } from "react"
-import { Ctx } from "../../context/stateContext"
+import { Ctx } from "../../context/StateContext"
 
 
 export function InnerComponent() {
